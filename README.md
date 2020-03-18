@@ -1,6 +1,7 @@
-# pt
+# Agenda de contactos
 
 Agenda de contactos em Flutter
+Projeto criado no curso de Flutter da Udemy
 
 ## Getting Started
 
